@@ -1,4 +1,3 @@
-# React-Native-examples
 The Purpose Of The Component:
     1) to authenticate a user based on his mobile number
     2) to make sure that this number belongs to a user (the check is done through sending SMS to this phone number)
